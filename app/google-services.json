@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617331879987",
+    "project_id": "app2das",
+    "storage_bucket": "app2das.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617331879987:android:2df98a2c68b1ae8409f346",
+        "android_client_info": {
+          "package_name": "com.example.app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617331879987-cjro3vrofct3mpl91f7udoqh7oeoph5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFA8imXLC32mjIRo5iSVrg4SUNBSzcixo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617331879987-cjro3vrofct3mpl91f7udoqh7oeoph5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
